@@ -12,7 +12,7 @@ Este projeto irá rodar em uma maquina local para propositos de testes.
 
 ## Clone este projeto
 
-$ git clone https://github.com/jcarboni2/CursoSelenium.git
+$ git clone https://github.com/jcarboni2/CursoSeleniumSrBarriga.git
 
 
 ### Pré requisito
